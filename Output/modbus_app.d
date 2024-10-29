@@ -1,0 +1,15 @@
+..\..\output\modbus_app.o: ..\..\App_Modbus\modbus_app.c
+..\..\output\modbus_app.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\modbus_app.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\..\output\modbus_app.o: ..\..\Mid_Modbus\modbus_slave.h
+..\..\output\modbus_app.o: ..\..\Mid_Modbus\include\mb.h
+..\..\output\modbus_app.o: ..\..\Drv_Modbus\port.h
+..\..\output\modbus_app.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+..\..\output\modbus_app.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+..\..\output\modbus_app.o: ..\..\Mid_Modbus\include\mbport.h
+..\..\output\modbus_app.o: ..\..\Mid_Modbus\include\mbproto.h
+..\..\output\modbus_app.o: ..\..\Drv_Common\sensor_drv.h
+..\..\output\modbus_app.o: ..\..\Drv_Common\rtc_drv.h
+..\..\output\modbus_app.o: ..\..\Drv_Common\led_drv.h
+..\..\output\modbus_app.o: ..\..\App_Common\store_app.h
+..\..\output\modbus_app.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
